@@ -1,4 +1,4 @@
-
+![image](https://github.com/chammakh-yassine/GUI-Tic-Tac-Toe/blob/main/Screenshot%202024-11-29%20111105.png?raw=true)
 # Tic Tac Toe Game
 
 A simple **Tic Tac Toe** game built in Java with a graphical user interface (GUI) using `JFrame` and `JButton`. The game allows two players to play alternately, with the option to play again after a match ends.
